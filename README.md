@@ -16,7 +16,8 @@
 2. Tap on any cell on the grid to make your move.
 3. Alternate turns with the other player until one of you gets four or five symbols in a row.
 4. If no player gets four or five symbols in a row and the board is filled, the game ends in a tie.
-
+## Flow Chart
+![alt text](https://github.com/Phirada-Nilbai/Tic-Tac-Toe/blob/main/images/flowchart.jpg?raw=true)
 ## Credits
 #### This project was built by Phirada Nilbai as part of an exercise. Feel free to use this code as a reference or a starting point for your own projects.
 
